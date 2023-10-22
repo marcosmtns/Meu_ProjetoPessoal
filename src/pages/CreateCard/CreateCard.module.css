@@ -1,0 +1,12 @@
+.create_card {
+  text-align: center;
+}
+
+.create_card h2 {
+  font-size: 2.2em;
+}
+
+.create_card p {
+  color: #aaa;
+  margin-bottom: 2em;
+}

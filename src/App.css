@@ -1,0 +1,12 @@
+/* .App {
+  text-align: center;
+} */
+
+.container {
+  min-height: 60vh; /* altura mínima de 60% da tela */
+  margin-bottom: 5em;
+}
+
+/* display: flex;
+justify-content: center;
+align-items: center; */
