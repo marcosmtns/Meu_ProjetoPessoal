@@ -1,8 +1,6 @@
-# React + Vite
+# Projeto Pessoal: Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é meu projeto pessoal feito com React e Vite na construção desta aplicação, utilizando Firebase no back-end. 
+Ele foi criado com referência em meus projetos anteriores já construídos.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Acesse, cadastre-se e crie novos cards para a coleção: https://marcosmtns.github.io/Meu_ProjetoPessoal/
